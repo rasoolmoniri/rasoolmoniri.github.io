@@ -3,13 +3,13 @@
  Rasool Moniri
 ```
 
-![Logo](https://github.com/rasoolmoniri/rasoolmoniri.github.io/pic.png)
+![Logo](https://rasoolmoniri.github.io/pic.png)
 
 ---
 
 TEL  : 09364380464,
 Mail : rmoniry@yahoo.com <br/>
-Persian Resume : [link to Resume.](https://github.com/rasoolmoniri/rasoolmoniri.github.io/Resume_Fa.pdf) <br/>
+Persian Resume : [link to Resume.](https://rasoolmoniri.github.io/Resume_Fa.pdf) <br/>
 jointomychannel : https://t.me/joinchat/AAAAAEubyejDgeCJYBxs5 <br/>
 quera profile : https://quera.ir/profile/rmoniry
 
