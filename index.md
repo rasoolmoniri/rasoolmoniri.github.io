@@ -13,7 +13,14 @@ Persian Resume : [link to Resume.](https://rasoolmoniri.github.io/Resume_Fa.pdf)
 jointomychannel : https://t.me/joinchat/AAAAAEubyejDgeCJYBxs5 <br/>
 quera profile : https://quera.ir/profile/rmoniry
 
-###Skill Highlights
+### About
+
+---
+
+I was born in tehran in 1989. I like to programming. I like to work in schools and now I am working in schools some times.
+
+
+### Skill Highlights
 ---
 +	Programming Languages (Pascal,C,C++,)
 
@@ -31,15 +38,31 @@ quera profile : https://quera.ir/profile/rmoniry
 
 +	Docker
 
-###Working Experience
+### Working Experience
 ---
 + I WORK SOME TIMES IN SCHOOLS –  
     
-###Education
+### Education
 ---
 + Master of Science: Software Engineering
   - 2020TEHRANPAYAMENOORUNIVERSITY
 + Bachelor of Science: HARDware Engineering
   - 2011-2015, TEHRANPAYAMENOORUNIVERSITY, TEHRAN Branch
   
+### Languages
+
+---
+
++ English 
+  - Pearson Test of English - Upper Intermediate
++ Persian
+  - Native
+
+
+### Resume Assessment
+
+---
+
+[Resume](/assessment/RM_CV_CheckList_AR_3983.pdf)
+
 .
