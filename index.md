@@ -67,4 +67,3 @@ I was born in tehran in 1989. I like to programming. I like to work in schools a
 [Resume](/RM_CV_CheckList_AR_3983.pdf)
 
 
-
